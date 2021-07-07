@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prvi_Deo_DrugiDomaci_Domaci_MTPP", "Prvi_Deo_DrugiDomaci_Domaci_MTPP\Prvi_Deo_DrugiDomaci_Domaci_MTPP.csproj", "{661577BA-CE23-4949-A8CC-F0D291DF06BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{661577BA-CE23-4949-A8CC-F0D291DF06BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661577BA-CE23-4949-A8CC-F0D291DF06BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{661577BA-CE23-4949-A8CC-F0D291DF06BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661577BA-CE23-4949-A8CC-F0D291DF06BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D55FB8A-717A-495D-8EAD-FA8F145C4B1E}
+	EndGlobalSection
+EndGlobal
